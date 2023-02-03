@@ -1,0 +1,18 @@
+# 1 exercise
+
+fruits = ("apple", "banana", "cherry")
+print(fruits[0])
+
+# 2 exercise
+
+print(len(fruits))
+
+# 3 exercise
+
+print(fruits[-1:])
+
+# 4 exercise
+
+fruits = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
+print(fruits[2:5])
+print()
